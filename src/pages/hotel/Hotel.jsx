@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import "./hotel.css";
 
 const Hotel = () => {
   return (
@@ -6,4 +7,4 @@ const Hotel = () => {
   )
 }
 
-export default Hotel
+export default Hotel;
